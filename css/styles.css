@@ -9816,7 +9816,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: white !important;
 }
 
 .text-black-50 {
@@ -10309,6 +10309,7 @@ header.masthead .masthead-heading {
 .timeline .timeline-body > ul,
 .timeline .timeline-body > p {
   margin-bottom: 0;
+  
 }
 
 @media (min-width: 768px) {
