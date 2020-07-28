@@ -3967,7 +3967,7 @@ input[type=button].btn-block {
   position: relative;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: right;
   justify-content: space-between;
   padding: 0.5rem 1rem;
 }
@@ -6128,7 +6128,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #f5f6f8 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
